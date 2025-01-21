@@ -12,4 +12,4 @@ RUN pip install -r requirements
 
 COPY . .
 
-CMD ["python3", "app(2).py"]
+CMD ["python3", "app.py"]
